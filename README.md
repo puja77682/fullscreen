@@ -1,2 +1,2 @@
 # fullscreen
-its work in slides basis
+its work in slides basis.
